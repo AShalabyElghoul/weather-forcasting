@@ -1,0 +1,21 @@
+@media only screen and (max-width: 992px) {
+    .test{
+        height: 135vh;
+    }
+    .cards{
+        top: -20%;
+        width: 90%;
+    }
+    #copyright{
+        height: 35vh;
+    }
+    .bar input{
+        width: 70%;
+    }
+ }
+ @media only screen and  (min-width: 992px)and (max-width: 1416px)  {
+    .degree p{
+        font-size: 48px;
+        font-weight: 400;
+    }
+ }
